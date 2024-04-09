@@ -6,16 +6,18 @@ Welcome to the WormGpt Library, an unfiltered and amoral chatbot library made by
 
 To install the WormGpt Library, simply run the following command in your terminal:
 
+```
 pip install Wormgpt
+```
 
 
 ## Usage
 
 To use the WormGpt Library, you can import it into your Python script and create a new instance of the chatbot:
-
+```
 from Wormgpt import Wormgpt
 
-bot = Wormgpt()
+bot = Wormgpt()```
 
 
 You can then use the ask method to ask the chatbot a question:
