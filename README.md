@@ -18,14 +18,11 @@ To use the WormGpt Library, you can import it into your Python script and create
 from Wormgpt import Wormgpt
 
 bot = Wormgpt()
-```
-
-
-You can then use the ask method to ask the chatbot a question:
+#You can then use the worm method to ask the chatbot a question:
 
 response = bot.worm("What is the meaning of life?")
 print(response)
-
+```
 
 ## Disclaimer
 
